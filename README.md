@@ -1,11 +1,10 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:111111,100:1a1a2e&height=220&section=header&text=Arun%20Sujith&fontSize=56&fontColor=e2e2e2&fontAlignY=38&desc=air%202193.%20codeforces%20specialist.%20machine%20learning.&descAlignY=58&descSize=15&descColor=555555&animation=fadeIn&fontAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:111111,100:1a1a2e&height=220&section=header&text=Arun%20Sujith&fontSize=56&fontColor=e2e2e2&fontAlignY=38&desc=competitive%20programmer.%20machine%20learning.%20builder.&descAlignY=58&descSize=15&descColor=555555&animation=fadeIn&fontAlign=50" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=AAAAAA&center=true&vCenter=true&width=650&lines=IIT+BHU+Varanasi;Codeforces+Specialist+(1527);Machine+Learning+%C2%B7+Competitive+Programming;600%2B+Problems+Solved;from+algorithms+to+AI" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=AAAAAA&center=true&vCenter=true&width=700&lines=IIT+(BHU)+Varanasi;Codeforces+Specialist+(1535);1200%2B+Problems+Solved;Machine+Learning+%C2%B7+Competitive+Programming+%C2%B7+Software+Development" />
 
 <br/>
 
@@ -20,16 +19,18 @@
 ---
 
 ```txt
-  INFO
-  ──────────────────────────────────────────────────────
-  Name     →  Matluri Arun Sujith
-  Institute→  IIT (BHU), Varanasi
-  Focus    →  Machine Learning · Competitive Programming
-  Rating   →  Codeforces Specialist (1527)
-  Rank     →  JEE Advanced AIR 2193
-  Method   →  learn fast · build well · compete harder
-  ──────────────────────────────────────────────────────
-````
+INFO
+──────────────────────────────────────────────────────
+
+Name      →  Matluri Arun Sujith
+Institute →  IIT (BHU), Varanasi
+Focus     →  Machine Learning · Competitive Programming
+Rating    →  Codeforces Specialist (1535)
+Solved    →  1200+ Problems
+Method    →  learn fast · build well · compete harder
+
+──────────────────────────────────────────────────────
+```
 
 ---
 
@@ -64,6 +65,22 @@
 <img src="https://img.shields.io/badge/Pandas-1a1a2e?style=flat-square&logo=pandas&labelColor=0d0d0d" />
 
 </div>
+
+---
+
+## Achievements
+
+```txt
+JEE Advanced → AIR 2193
+
+Codeforces  → Specialist (1535)
+
+CodeChef    → 3★ (1695)
+
+Problems    → 1200+
+
+Anveshika   → Top 5 Finalist
+```
 
 ---
 
