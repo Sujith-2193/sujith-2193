@@ -1,11 +1,11 @@
-````md
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:111111,100:1a1a2e&height=220&section=header&text=Arun%20Sujith&fontSize=56&fontColor=e2e2e2&fontAlignY=38&desc=air%202193.%20codeforces%20specialist.%20machine%20learning.&descAlignY=58&descSize=15&descColor=555555&animation=fadeIn&fontAlign=50" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=AAAAAA&center=true&vCenter=true&width=700&lines=IIT+BHU+Varanasi;Codeforces+Specialist+(1527);Machine+Learning+%C2%B7+Competitive+Programming;600%2B+Problems+Solved;from+algorithms+to+AI" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=AAAAAA&center=true&vCenter=true&width=650&lines=IIT+BHU+Varanasi;Codeforces+Specialist+(1527);Machine+Learning+%C2%B7+Competitive+Programming;600%2B+Problems+Solved;from+algorithms+to+AI" />
 
 <br/>
 
@@ -82,34 +82,6 @@
 
 ---
 
-## Competitive Programming
-
-```txt
-Codeforces  → Specialist (1527)
-
-CodeChef    → 3★ (1695)
-
-JEE Adv     → AIR 2193
-
-Problems    → 600+
-
-Focus       → CP · ML · Backend
-```
-
----
-
-## Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sujith-2193/Sujith-2193/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sujith-2193/Sujith-2193/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Sujith-2193/Sujith-2193/output/github-snake-dark.svg" width="92%" />
-</picture>
-</div>
-
----
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=4000&pause=6000&color=444444&center=true&vCenter=true&width=700&lines=%22learn.+build.+compete.+repeat.%22" />
@@ -117,5 +89,3 @@ Focus       → CP · ML · Backend
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:111111,100:0a0a0a&height=100&section=footer&animation=fadeIn" />
 
 </div>
-```
-
