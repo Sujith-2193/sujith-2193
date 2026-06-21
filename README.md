@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=AAAAAA&center=true&vCenter=true&width=700&lines=IIT+(BHU)+Varanasi;Codeforces+Specialist+(1535);1200%2B+Problems+Solved;Machine+Learning+%C2%B7+Competitive+Programming+%C2%B7+Software+Development" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=AAAAAA&center=true&vCenter=true&width=700&lines=IIT+(BHU)+Varanasi;Codeforces+Specialist+(1575);1200%2B+Problems+Solved;Machine+Learning+%C2%B7+Competitive+Programming+%C2%B7+Software+Development" />
 
 <br/>
 
@@ -25,7 +25,7 @@ INFO
 Name      →  Matluri Arun Sujith
 Institute →  IIT (BHU), Varanasi
 Focus     →  Machine Learning · Competitive Programming
-Rating    →  Codeforces Specialist (1535)
+Rating    →  Codeforces Specialist (1575)
 Solved    →  1200+ Problems
 Method    →  learn fast · build well · compete harder
 
@@ -73,7 +73,7 @@ Method    →  learn fast · build well · compete harder
 ```txt
 JEE Advanced → AIR 2193
 
-Codeforces  → Specialist (1535)
+Codeforces  → Specialist (1575)
 
 CodeChef    → 3★ (1695)
 
