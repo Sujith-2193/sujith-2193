@@ -70,17 +70,17 @@ Method    →  learn fast · build well · compete harder
 
 ## Achievements
 
-```txt
-JEE Advanced → AIR 2193
 
-Codeforces  → Specialist (1575)
+JEE Advanced → AIR 2193 (Open-Cat)
 
-CodeChef    → 3★ (1695)
+Codeforces  → Specialist (1575- 500+problems solved)
+
+Leetcode    → 1701 (600+ problems solved)
 
 Problems    → 1200+
 
 Anveshika   → Top 5 Finalist
-```
+
 
 ---
 
